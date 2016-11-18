@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HQF.Tutorials.Wpf.Touch", "Scr\HQF.Tutorials.Wpf.Touch\HQF.Tutorials.Wpf.Touch.csproj", "{2B274EAB-B233-4EDB-A183-A34830F545FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B274EAB-B233-4EDB-A183-A34830F545FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B274EAB-B233-4EDB-A183-A34830F545FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B274EAB-B233-4EDB-A183-A34830F545FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B274EAB-B233-4EDB-A183-A34830F545FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
